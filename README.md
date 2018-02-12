@@ -82,7 +82,7 @@ $ ./run_tests.sh
 ```
 ## Author
 
-* **Ariel Gamiño** - *Initial work* - [PurpleBooth](https://github.com/arielgamino/)
+* **Ariel Gamiño** - [Link to this repository](https://github.com/arielgamino/insight-data-challenge)
 
 ## License
 
