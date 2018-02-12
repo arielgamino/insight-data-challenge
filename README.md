@@ -11,12 +11,19 @@ Complete instructions of challenge found in this repository: https://github.com/
 ## Getting Started
 
 File structure is as follows:
+
 ./input/itcont.txt <-- input file containing campaign contribution information
+
 ./input/percentile.txt <-- file containing percentile to calculate
+
 ./output/repeat_donors.txt <-- output file containing information for repeat recipients by zip code and year.
+
 ./run.sh <-- run this file to run python script
+
 ./src/donation-analytics.py <-- Python code to read input and generate output file.
+
 ./insight_testsuite/run_tests.sh <-- run this to run tests on this folder
+
 
 ### Prerequisites
 
